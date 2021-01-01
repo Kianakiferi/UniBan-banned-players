@@ -1,7 +1,7 @@
 # UniBan-banned-players
 My Minecraft server's banned players
 
-###Banned Players:
+### Banned Players:
 -  uuid: f0001f81-f437-430c-82d1-da2cbbfa87da
     - name: BLUE_XJ
     - reason: Huge amount of theft
