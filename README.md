@@ -18,9 +18,9 @@ My Minecraft server's banned players
     - level: Medium threat
    
 - uuid: 0d73f2d0-d97e-4b87-b454-e85b6a968576
-    name: Bad_Xue
-    reason: Destroy building or items, Set fire, Theft
-    level: Medium threat
+    - name: Bad_Xue
+    - reason: Destroy building or items, Set fire, Theft
+    - level: Medium threat
    
 - uuid: 346cb941-8e25-44db-bd7f-a026e55fdff6,
     - name: KrafarWww,
