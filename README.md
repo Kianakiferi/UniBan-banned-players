@@ -1,5 +1,7 @@
 # UniBan-banned-players
 My Minecraft server's banned players
+### Helpful Links
+- Find player by UUID or Name: https://minecraftuuid.com/
 
 ### Banned Players:
 -  uuid: f0001f81-f437-430c-82d1-da2cbbfa87da
