@@ -39,7 +39,7 @@ My Minecraft server's banned players
 
 - uuid: 5eac82af-7013-419d-ac24-bfef5357e07d
     - name: CheeseMantou
-    - reason: Destroy building or items, Co-Theft, Huge amount of theft, Set TNT, Set Lava, Kill Player
+    - reason: Cheat, Destroy building or items, Co-Theft, Huge amount of theft, Set TNT, Set Lava, Kill Player
     - level: Extremely danger
  
 - uuid: 3658309c-838d-4598-88c5-48ae143a99d2
